@@ -1,4 +1,4 @@
-setwd("/srv/data/homes/joseph.hani/L3 MIASHS/Statistiques et Applications /TD5-20171109")
+setwd("____Your___Path____")
 table =read.table('LaborMarket.csv', sep=',',dec='.', header = TRUE )
 
 
